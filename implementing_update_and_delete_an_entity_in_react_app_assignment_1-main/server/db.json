@@ -1,0 +1,14 @@
+{
+    "doors": [
+        {
+            "id": "1",
+            "name": "Front Door",
+            "status": "open"
+        },
+        {
+            "id": "2",
+            "name": "Back Door",
+            "status": "closed"
+        }
+    ]
+}
